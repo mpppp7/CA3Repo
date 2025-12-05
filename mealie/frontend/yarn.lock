@@ -11241,15 +11241,15 @@ vuetify-nuxt-module@^0.18.8:
     vite-plugin-vuetify "^2.1.0"
     vuetify "^3.7.0"
 
+vuetify@^3.10.11:
+  version "3.11.2"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-3.11.2.tgz#dd345af4cc4b4deaea525bb69904f51a7dcc7b9c"
+  integrity sha512-1lL0qN6JIdbx6xGYpo6dnx378EfC0t4EotPJdP4go8ThmIdRO3xLva1ALxhxi5lSYTht4R9OVk9miVnwVfDx3A==
+
 vuetify@^3.7.0:
   version "3.10.8"
   resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-3.10.8.tgz#2c65e0cd0924981953e4c7f3779a94207035306b"
   integrity sha512-TV1bx8mUjOPbhmEsamm38/CBcVe5DHYepOZGE6aQJ2uxvg96B4k+QHgIJcD5uKVfKmxKkJRtHdEXyq6JP9wBtg==
-
-vuetify@^3.9.7:
-  version "3.10.3"
-  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-3.10.3.tgz#f04e507bb5efee6b52f11b2fd60a20dced1a8831"
-  integrity sha512-psc7oZfjz3LwH96ZRzSm4iGcOKKoeoVZIyO5Q5xO4vcUfWYxobL7TvMQv53jv1PnNvaMIXWeVIrQmiyce5dpTg==
 
 w3c-keyname@^2.2.4:
   version "2.2.8"

@@ -33,7 +33,7 @@
     "vite": "^7.0.0",
     "vue-advanced-cropper": "^2.8.9",
     "vue-draggable-plus": "^0.6.0",
-    "vuetify": "^3.9.7",
+    "vuetify": "^3.10.11",
     "vuetify-nuxt-module": "^0.18.8"
   },
   "devDependencies": {
